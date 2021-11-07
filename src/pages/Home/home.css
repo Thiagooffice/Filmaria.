@@ -38,3 +38,6 @@
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }
+.lista-filmes article a:hover{
+    background-color:rgb(138, 36, 36);
+}

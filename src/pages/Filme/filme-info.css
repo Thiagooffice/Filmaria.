@@ -16,6 +16,8 @@
     padding: 12px;
     border-radius: 1px;
     transition: all 0.5s;
+    margin-left: 20px;
+    
 }
 .filme-info button:hover{
     background-color:brown;
@@ -32,4 +34,10 @@
 .filme-info a:hover{
     color: #fff;
    
+}
+.botoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
 }

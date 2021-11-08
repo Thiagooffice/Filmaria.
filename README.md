@@ -1,1 +1,1 @@
- URL: https://project-filmaria.netlify.app
+ URL do projeto: https://project-filmaria.netlify.app
